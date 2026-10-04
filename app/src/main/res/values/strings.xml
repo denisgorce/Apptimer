@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppTimer</string>
+    <string name="a11y_desc">Permet à AppTimer d\'ouvrir les infos de l\'application cible et d\'appuyer sur « Forcer l\'arrêt » à la fin de la minuterie.</string>
+</resources>
